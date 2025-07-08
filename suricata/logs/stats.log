@@ -1,0 +1,665 @@
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:46:05 (uptime: 0d, 00h 00m 37s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.afpacket.polls                        | Total                     | 230
+capture.afpacket.poll_timeout                 | Total                     | 230
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:46:13 (uptime: 0d, 00h 00m 45s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.afpacket.polls                        | Total                     | 587
+capture.afpacket.poll_timeout                 | Total                     | 587
+flow.mgr.full_hash_pass                       | Total                     | 1
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:46:21 (uptime: 0d, 00h 00m 53s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.afpacket.polls                        | Total                     | 825
+capture.afpacket.poll_timeout                 | Total                     | 825
+flow.mgr.full_hash_pass                       | Total                     | 2
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:46:29 (uptime: 0d, 00h 01m 01s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 1181
+capture.afpacket.poll_timeout                 | Total                     | 1179
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 3
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:46:37 (uptime: 0d, 00h 01m 09s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 1537
+capture.afpacket.poll_timeout                 | Total                     | 1535
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 3
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:46:45 (uptime: 0d, 00h 01m 17s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 1776
+capture.afpacket.poll_timeout                 | Total                     | 1774
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 4
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:46:53 (uptime: 0d, 00h 01m 25s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 2132
+capture.afpacket.poll_timeout                 | Total                     | 2130
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 5
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:47:01 (uptime: 0d, 00h 01m 33s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 2488
+capture.afpacket.poll_timeout                 | Total                     | 2486
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 6
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:47:09 (uptime: 0d, 00h 01m 41s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 2727
+capture.afpacket.poll_timeout                 | Total                     | 2725
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 6
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:47:17 (uptime: 0d, 00h 01m 49s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 3083
+capture.afpacket.poll_timeout                 | Total                     | 3081
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 7
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:47:25 (uptime: 0d, 00h 01m 57s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 3439
+capture.afpacket.poll_timeout                 | Total                     | 3437
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 8
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:47:33 (uptime: 0d, 00h 02m 05s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 3676
+capture.afpacket.poll_timeout                 | Total                     | 3674
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 9
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:47:41 (uptime: 0d, 00h 02m 13s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 4033
+capture.afpacket.poll_timeout                 | Total                     | 4031
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 10
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:47:49 (uptime: 0d, 00h 02m 21s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 4389
+capture.afpacket.poll_timeout                 | Total                     | 4387
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 11
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:47:57 (uptime: 0d, 00h 02m 29s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 4656
+capture.afpacket.poll_timeout                 | Total                     | 4654
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 11
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:48:05 (uptime: 0d, 00h 02m 37s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 4984
+capture.afpacket.poll_timeout                 | Total                     | 4982
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 12
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:48:13 (uptime: 0d, 00h 02m 45s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 5340
+capture.afpacket.poll_timeout                 | Total                     | 5338
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 13
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:48:21 (uptime: 0d, 00h 02m 53s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 5606
+capture.afpacket.poll_timeout                 | Total                     | 5604
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 14
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:48:29 (uptime: 0d, 00h 03m 01s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 5934
+capture.afpacket.poll_timeout                 | Total                     | 5932
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 15
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:48:37 (uptime: 0d, 00h 03m 09s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 6291
+capture.afpacket.poll_timeout                 | Total                     | 6289
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 15
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:48:45 (uptime: 0d, 00h 03m 17s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 6557
+capture.afpacket.poll_timeout                 | Total                     | 6555
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 16
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:48:53 (uptime: 0d, 00h 03m 25s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 6884
+capture.afpacket.poll_timeout                 | Total                     | 6882
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 17
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:49:01 (uptime: 0d, 00h 03m 33s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 7241
+capture.afpacket.poll_timeout                 | Total                     | 7239
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 18
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:49:09 (uptime: 0d, 00h 03m 41s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 7508
+capture.afpacket.poll_timeout                 | Total                     | 7506
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 18
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:49:17 (uptime: 0d, 00h 03m 49s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 7835
+capture.afpacket.poll_timeout                 | Total                     | 7833
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 19
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:49:25 (uptime: 0d, 00h 03m 57s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 8192
+capture.afpacket.poll_timeout                 | Total                     | 8190
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 20
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:49:33 (uptime: 0d, 00h 04m 05s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 8428
+capture.afpacket.poll_timeout                 | Total                     | 8426
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 21
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:49:41 (uptime: 0d, 00h 04m 13s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 8784
+capture.afpacket.poll_timeout                 | Total                     | 8782
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 22
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:49:49 (uptime: 0d, 00h 04m 21s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 9140
+capture.afpacket.poll_timeout                 | Total                     | 9138
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 23
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304
+------------------------------------------------------------------------------------
+Date: 7/8/2025 -- 01:49:57 (uptime: 0d, 00h 04m 29s)
+------------------------------------------------------------------------------------
+Counter                                       | TM Name                   | Value
+------------------------------------------------------------------------------------
+capture.kernel_packets                        | Total                     | 2
+capture.afpacket.polls                        | Total                     | 9438
+capture.afpacket.poll_timeout                 | Total                     | 9436
+capture.afpacket.poll_data                    | Total                     | 2
+decoder.pkts                                  | Total                     | 2
+decoder.bytes                                 | Total                     | 84
+decoder.ethernet                              | Total                     | 2
+decoder.arp                                   | Total                     | 2
+decoder.avg_pkt_size                          | Total                     | 42
+decoder.max_pkt_size                          | Total                     | 42
+flow.mgr.full_hash_pass                       | Total                     | 23
+flow.mgr.rows_per_sec                         | Total                     | 6553
+flow.spare                                    | Total                     | 10000
+memcap_pressure                               | Total                     | 5
+memcap_pressure_max                           | Total                     | 5
+tcp.memuse                                    | Total                     | 2490368
+tcp.reassembly_memuse                         | Total                     | 458752
+flow.memuse                                   | Total                     | 7234304

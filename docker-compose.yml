@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  mosquitto:
+    image: eclipse-mosquitto
+    container_name: mosquitto
+    ports:
+      - "1883:1883"
+    volumes:
+      - ./mosquitto:/mosquitto/config
+    networks:
+      - monitoring
+
+  suricata:
+    image: jasonish/suricata
+    container_name: suricata
+    cap_add:
+      - NET_ADMIN
+    volumes:
+      - ./suricata:/etc/suricata
+      - ./suricata/logs:/var/log/suricata
+    command: ["-i", "eth0"]
+    networks:
+      - monitoring
+    depends_on:
+      - mosquitto
+
+  filebeat:
+    image: docker.elastic.co/beats/filebeat:8.13.4
+    container_name: filebeat
+    user: root
+    volumes:
+      - ./filebeat/filebeat.yml:/usr/share/filebeat/filebeat.yml
+      - ./suricata/logs:/var/log/suricata
+    networks:
+      - monitoring
+    depends_on:
+      - suricata
+
+networks:
+  monitoring:
+    driver: bridge
