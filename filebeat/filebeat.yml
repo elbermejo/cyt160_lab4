@@ -7,9 +7,11 @@ filebeat.inputs:
     json.add_error_key: true
 
 output.elasticsearch:
-  hosts: ["http://host.docker.internal:9200"]
+  hosts: ["https://host.docker.internal:9200"]
   username: "elastic"
-  password: "changeme"
+  password: "huxpbX_Qe5UfeCZh0F9g"
+  ssl.verification_mode: none
 
 setup.kibana:
-  host: "http://host.docker.internal:5601"
+  host: "http://localhost:5601"
+
