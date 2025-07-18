@@ -7,7 +7,7 @@ filebeat.inputs:
     json.add_error_key: true
 
 output.elasticsearch:
-  hosts: ["https://host.docker.internal:9200"]
+  hosts: ["https://localhost:9200"]
   username: "elastic"
   password: "huxpbX_Qe5UfeCZh0F9g"
   ssl.verification_mode: none
